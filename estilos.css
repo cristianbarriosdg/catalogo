@@ -1,0 +1,427 @@
+body {
+	background-color: #ffffff;
+	font-family: Verdana, Tahoma, Arial;
+	overflow-y: scroll;
+
+}
+
+#contenedor {
+	width: 960px;
+	/*height: 700px;*/
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	border:0px;
+}
+
+#cabecera{
+	/*width: 960px;*/
+	/*height: 140px;*/
+	border:0px;
+	padding:0;
+
+	width: 960px;
+	height: 140px;
+	background-color: #ffffff;
+	/*float: left;*/
+}
+
+#logo{
+	width: 140px;
+	height: 140px;
+	border:0px;
+	float: left;
+}
+
+#contenedor_imagen_cabecera_y_contactos{
+	width: 820px;
+	height: 140px;
+	border: 0px;
+	float: left;
+}
+
+#imagen_cabecera{
+	width: 820px;
+	height: 110px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#contenedor_debajo_cabecera{
+	width: 820px;
+	height: 30px;
+	border:0px;
+	padding:0;
+}
+
+#contenedor_links{
+	width: 205px;
+	height: 30px;
+	border: 0px;
+	float: left;
+	/*background-color: #39823A;*/
+}
+
+#contenedor_links_y_contactos_azul{
+	width: 38px;
+	height: 30px;
+	border: 0px;
+	float: left;
+	/*background-color: #326B8F;*/
+}
+
+#espacio_contactos_principio{
+	width: 38px;
+	height: 30px;
+	border:0px;
+	float: left;
+
+}
+
+#espacio_contactos_final{
+	width: 30px;
+	height: 30px;
+	border:0px;
+	float: left;
+}
+
+#espacio_contactos{
+	width: 140px;
+	height: 30px;
+	border:0px;
+}
+
+#espacio_arriba_y_abajo_contactos{
+	width: 150px;
+	height: 5px;
+	border:0px;
+	float: left;
+}
+
+#espacio_entre_contactos{
+	width: 10px;
+	height: 30px;
+	border:0px;
+	float: left;
+}
+
+#contactos{
+	width: 20px;
+	height: 20px;
+	border:0px;
+	float: left;
+}
+
+#botonera{
+	width: 960px;
+	/*height: 40px;*/
+	background-color: #123D5C;
+	float: left;
+	/*text-align: center;*/
+	vertical-align: baseline;
+}
+
+#linea_de_fotos_botonera{
+	width: 960px;
+	height: 64px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#contenedor_de_foto_botonera{
+	width: 64px;
+	height: 64px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#titulo_catalogo{
+	width: 960px;
+	height: 35px;
+	background-color: #000000;
+	float: left;
+}
+
+#titulo{
+	width: 960px;
+	height: 30px;
+	background-color: #c3c3c3;
+	float: left;
+}
+
+#imagen_portada{
+	width: 960px;
+	height: 684px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#linea_de_fotos_portada{
+	width: 960px;
+	height: 320px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#separacion_portada{
+	width: 60px;
+	height: 320px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#contenedor_de_foto_portada{
+	width: 240px;
+	height: 320px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#linea_de_fotos{
+	width: 960px;
+	height: 206px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#contenedor_de_foto{
+	width: 160px;
+	height: 182px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#linea_de_fotos_almanaque{
+	width: 960px;
+	height: 320px;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+#contenedor_de_foto_almanaque{
+	width: 320px;
+	height: 320px;
+	background-color: #000000;
+	float: left;
+}
+
+#contenedor_de_descripcion_almanaque{
+	width: 520px;
+	height: 320px;
+	background-color: #000000;
+	float: left;
+}
+#descripcion_de_foto_almanaque{
+	width: 520px;
+	height: 290px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#comprar{
+	width: 520px;
+	height: 30px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#boton-comprar{
+	width: 120px;
+	height: 30px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#espacio-comprar{
+	width: 10px;
+	height: 30px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#botones-cantidad{
+	width: 37px;
+	height: 30px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#margen_descripcion{
+	width: 115px;
+	height: 24px;
+	background-color: #cdced3;
+	float: left;
+}
+
+#contenedor_numero_de_foto{
+	width: 45px;
+	height: 24px;
+	background-color: #000000;
+	float: left;
+}
+
+#separacion1{
+	width: 960px;
+	height: 35px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#separacion2{
+	width: 40px;
+	height: 206px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#separacion3{
+	width: 160px;
+	height: 206px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#separacion4{
+	width: 20px;
+	height: 206px;
+	background-color: #ffffff;
+	float: left;
+}
+#separacion5{
+	width: 40px;
+	height: 320px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#separacion6{
+	width: 960px;
+	height: 35px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#separacion7{
+	width: 960px;
+	height: 20px;
+	background-color: #ffffff;
+	float: left;
+}
+
+#separacion8{
+	width: 960px;
+	height: 5px;
+	background-color: #c3c3c3;
+	float: left;
+}
+
+ul.botonera li{
+	display: inline;
+	padding: 1px;
+}
+
+ul.botonera  li a {
+	font-size: 11px;
+	color: #91d8f7;
+	background-color: #1C4563;
+	text-decoration: none;
+	text-align: right;
+	font-weight: bold;
+	width: 100px;
+	height: 30px;
+	line-height: 11px;
+	margin-bottom: 0px;
+	display: block-level;
+	/*display: inline-block*/
+}
+ul.botonera li a:hover {
+	color: #ffffff;
+	/*background-color: #4473c1;*/
+	}
+
+ul.botonera2 li{
+	display: inline;
+	padding: 0px;
+}
+ul.botonera2  li a {
+	font-size: 12px;
+	color: #1C4563;
+	/*text-decoration: none;*/
+	/*text-align: center;*/
+	font-weight: bold;
+	/*width: 960px;
+	height: 30px;
+	margin-bottom: 0px;*/
+	display: block-level;
+}
+
+ul.botonera2 li a:hover {
+	color: #ffffff;
+	/*background-color: #4473c1;*/
+}
+
+.titulo_catalogo{
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #ffffff;
+	text-align: center;
+	margin: 3px;
+}
+
+.subtitulo_catalogo{
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #ffffff;
+	text-align: center;
+	margin: 3px;
+}
+
+.titulos{
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #326B8F;
+	text-align: center;
+	margin: 3px;
+}
+
+.numero_de_foto{
+	font-size: 13px;
+	font-weight: bold;
+	color: #ffffff;
+	text-align: center;
+	margin: 3px;
+}
+
+.titulo_articulo{
+	font-size: 10px;
+	font-weight: bold;
+	color: #8cbeed;
+	text-align: left;
+	margin: 0px;
+}
+
+.texto_articulo{
+	font-size: 14px;
+	font-weight: bold;
+	color: #8b8b8b;
+	text-align: left;
+	margin: 0px;
+}
+
+.texto_articulo2{
+	font-size: 12px;
+	/*font-weight: bold;*/
+	color: #8b8b8b;
+	text-align: left;
+	margin: 0px;
+}
+.texto_articulo3{
+	font-size: 15px;
+	font-weight: bold;
+	color: #8b8b8b;
+	text-align: left;
+	margin: 0px;
+}
